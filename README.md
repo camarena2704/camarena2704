@@ -57,9 +57,9 @@
 ---
 
 ## 📫 Cómo contactarme
-- 📧 **Email:** (antoniogomezcamarena2004@gmail.com)  
-- 💼 **LinkedIn:** (https://www.linkedin.com/in/antonio-g%C3%B3mez-camarena-780563244/)  
-- 🌍 Ubicación: Sevilla, España  
+- 📧 Email: (antoniogomezcamarena2004@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/antonio-g%C3%B3mez-camarena-780563244/](Antonio Gómez Camarena)
+- 🌍 Ubicación: Sevilla, España
 
 ---
 ✨ _Siempre en búsqueda de nuevos retos y oportunidades para seguir creciendo como **Full Stack Developer**._
