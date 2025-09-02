@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Antonio Gómez Camarena  
+# 👋 ¡Hola! Soy Antonio Gómez Camarena
 
 💻 **Desarrollador Full Stack en formación** con experiencia en **Python, FastAPI, Angular y Java**.  
 🎓 Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma** y en **Sistemas Microinformáticos y Redes**.  
@@ -41,15 +41,9 @@
 ---
 
 ## 📊 Estadísticas de GitHub
-
-![GitHub Stats](README/github-stats.png)
-![Top Langs](README/top-langs.png)
-
-<!-- Gráfica de commits estilo GitHub -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=camarena2704&theme=tokyo-night)
-
-<!-- Snake de contribuciones -->
-![snake gif](https://github.com/camarena2704/camarena2704/blob/output/github-contribution-grid-snake.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camarena2704&show_icons=true&count_private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camarena2704&layout=compact&count_private=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=camarena2704&theme=tokyonight)
 
 ---
 
