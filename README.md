@@ -42,11 +42,8 @@
 
 ## 📊 Estadísticas de GitHub
 
-<!-- Muestra commits, PRs, issues y estrellas -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camarena2704&show_icons=true&count_private=true&theme=tokyonight)  
-
-<!-- Muestra los lenguajes más usados (incluyendo privados si activas token) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camarena2704&layout=compact&count_private=true&theme=tokyonight)  
+![GitHub Stats](README/github-stats.png)
+![Top Langs](README/top-langs.png)
 
 <!-- Gráfica de commits estilo GitHub -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=camarena2704&theme=tokyo-night)
