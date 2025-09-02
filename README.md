@@ -57,8 +57,8 @@
 ---
 
 ## 📫 Cómo contactarme
-- 📧 **Email:** (tu correo aquí)  
-- 💼 **LinkedIn:** (tu enlace aquí)  
+- 📧 **Email:** (antoniogomezcamarena2004@gmail.com)  
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/antonio-g%C3%B3mez-camarena-780563244/)  
 - 🌍 Ubicación: Sevilla, España  
 
 ---
