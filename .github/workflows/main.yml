@@ -1,0 +1,21 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: '0 * * * *' # cada hora
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update GitHub Stats
+        uses: anuraghazra/github-readme-stats@v3
+        with:
+          username: camarena2704
+          show_icons: true
+          count_private: true
+          theme: tokyonight
+          token: ${{ secrets.GH_TOKEN }}
