@@ -39,13 +39,14 @@
 ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
-
+<!-- 
 ## 📊 Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camarena2704&show_icons=true&count_private=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camarena2704&layout=compact&count_private=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=camarena2704&theme=tokyonight)
 
 ---
+-->
 
 ## 📫 Cómo contactarme
 - 📧 Email: [antoniogomezcamarena2004@gmail.com](mailto:antoniogomezcamarena2004@gmail.com)
