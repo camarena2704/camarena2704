@@ -41,9 +41,21 @@
 ---
 
 ## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camarena2704&theme=tokyonight&hide_border=true&card_width=400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camarena2704&theme=tokyonight&hide_border=true&card_width=400)
 
+<table>
+<tr>
+<td>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camarena2704&theme=tokyonight&hide_border=true&card_width=300)
+
+</td>
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camarena2704&theme=tokyonight&hide_border=true&card_width=300)
+
+</td>
+</tr>
+</table>
 
 ---
 
