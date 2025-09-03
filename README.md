@@ -42,20 +42,8 @@
 
 ## 📊 Estadísticas de GitHub
 
-<table cellspacing="0" cellpadding="0">
-<tr>
-<td align="center" valign="top" width="50%">
-  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camarena2704&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&card_width=400)
-
-</td>
-<td align="center" valign="top" width="50%">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camarena2704&layout=compact&count_private=true&theme=tokyonight&hide_border=false&card_width=400)
-
-</td>
-</tr>
-</table>
 
 ---
 
