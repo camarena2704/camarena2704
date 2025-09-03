@@ -41,8 +41,9 @@
 ---
 
 ## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camarena2704&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camarena2704&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camarena2704&theme=tokyonight&hide_border=true&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camarena2704&theme=tokyonight&hide_border=true&card_width=400)
+
 
 ---
 
